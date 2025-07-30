@@ -1,5 +1,5 @@
+English
 ==================================================================================================
-
 DESCRIPTION:
 
 MONICA is a carefully crafted and modern HTML website template designed for freelancers, social 
@@ -10,12 +10,10 @@ a better idea of who you are.
 
 ==================================================================================================
 
-
 LICENSE:
 
 This free resource is provided by styleshout.com and is free to use in 
 both personal and commercial projects.
-
 
 Rights:
 -------
@@ -25,7 +23,6 @@ yourself or a client. You may modify the resource according to your requirements
 in your projects under the following condition - you MUST give appropriate credit, provide an 
 attribution link to styleshout.com.
 
-
 Prohibitions:
 -------------
 
@@ -33,7 +30,6 @@ You are not permitted to resell or redistribute(even for free) the resource "as 
 prior consent. If you would like to republish or promote this resource on your site, please 
 link back to the appropriate resource page on styleshout.com where users can find the download 
 and not directly to the download zip file.
-
 
 Attribution: 
 ------------
@@ -43,12 +39,9 @@ We prefer the footer credit that comes with the template but you are still free 
 somewhere else.
 
 
-
 If you have any questions about the License, feel free to contact us.
 
-
 -----------------------------------------------------------------------------------------------------
-
 
 REMOVING THE ATTRIBUTION LINK:
 
@@ -64,9 +57,7 @@ and click the pay button on the page.
 If possible, kindly send us the site's url where the template is being used. 
 Also, keep your Paypal receipt as proof of payment and your good to go.
 
-
 ------------------------------------------------------------------------------------------------------ 
-
 
 SUPPORT:
     
@@ -86,9 +77,7 @@ javascript in your skill-set, you can also check out these tutorials:
  - https://javascript.info/
 
 
-
 ------------------------------------------------------------------------------------------------------ 
-
 
 USING THE MAILCHIMP FORM:
 
@@ -108,20 +97,14 @@ const cfg = {
 
 Replace the value of mailChimpURL with your mailchimp url.
 
-
-
 -------------------------------------------------------------------------------------------------------
-
 
 GET THE LATEST VERSION:
 
 We update our templates on a regular basis so to make sure that you have the latest version, 
 always download the template files directly on our website(https://www.styleshout.com/)
 
-
-
 -------------------------------------------------------------------------------------------------------
-
 
 SOURCES AND CREDITS:
 
@@ -142,10 +125,38 @@ Javascript Files:
  - MoveTo.js (https://github.com/hsnaydd/moveTo)
  - Prism.js (https://prismjs.com/)
  - Swiper JS (https://swiperjs.com/)
-
 -------------------------------------------------------------------------------------------------------
-
 
 Thanks for downloading from StyleShout :)
 
+-------------------------------------------------------------------------------------------------------
+日本語
+
+# Essence-Inc サイトについて
+
+本サイトは、Styleshout が提供する無料テンプレート「Monica」をカスタマイズして制作しています。
+以下のライセンス条件に基づき、適法に利用しています。
+
+【ライセンス概要】
+- 提供元: Styleshout (https://www.styleshout.com/)
+- 個人・商用利用とも無料で使用可能
+- 必要に応じて自由に改変可能
+- クレジット（著作権表示）をサイトに掲載することが必須
+   ※通常はフッターに「Design by Styleshout」と表記されています
+- 再配布・再販は禁止（改変後を含む）
+
+【クレジットについて】
+- クレジット表記を削除したい場合は、有料オプション（10 USD／1サイト）が提供されています。
+- 支払いは Styleshout の公式サイトから可能です。
+- 削除を希望される場合は、事前にご相談ください。
+
+【サポートについて】
+- 本テンプレートは無料提供のため、Styleshout から公式サポートは提供されていません。
+- ただし、HTML/CSS の基本知識があれば簡単に修正や更新が可能です。
+
+【補足】
+- 使用フォントやアイコン、JavaScript プラグイン等の詳細なクレジットは、
+  Monica の公式 readme に記載されています。
+- 将来的に Styleshout 側でライセンス条件が変更される可能性がありますので、
+  長期利用を前提とする場合は公式サイトを随時ご確認ください。
 
