@@ -1,20 +1,9 @@
 # Security Policy
 
-## Supported Versions
+このテンプレート（Monica）は Styleshout により無償提供されています。
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+商用利用・改変とも可能ですが、クレジットリンク（例：“Design by Styleshout”）をサイトに表示する必要があります。
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 2024    | :white_check_mark: |
-| 2023    | :white_check_mark: |
-| 2022    | :x:  |
+もしクレジット表示を希望されない場合は、有償（USD $10／1 ドメイン）で除去が可能です。
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+お問合せはユキコズデザインへ
