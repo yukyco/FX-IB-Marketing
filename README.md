@@ -1,7 +1,7 @@
 # FX-IB-Marketing
 
-サーバー移転時に必要
-/public_html ([本番公開用データ](https://essence-inc.netlify.app/))
+サーバー内フォルダ構成
+/public_html 
   /css/       
   /images/   
   /js/ 
@@ -39,7 +39,8 @@ FX-IB-Marketing
      -logo.svg
      -practice-1024x1024.jpg
 
-Essence-Inc
+FX-IB-Marketing
+
 /js/　　← メインスクリプト・プラグイン
 -main.js
 -plugins.js
