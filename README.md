@@ -24,8 +24,7 @@ FX-IB-Marketing
   -vendor.css
 
 FX-IB-Marketing
-
-/images/　 ← 画像データ（iStock無料素材・オリジナル画像・アイコン等）
+不要のため削除
  -Shippori_Mincho
  -iStock
  -icons
