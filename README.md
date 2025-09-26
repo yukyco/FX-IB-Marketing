@@ -1,4 +1,5 @@
-# Essence-Inc
+# FX-IB-Marketing
+
 サーバー移転時に必要
 /public_html ([本番公開用データ](https://essence-inc.netlify.app/))
   /css/       
@@ -15,13 +16,15 @@
       site.webmanifest
   
 # フォルダ構成
-Essence-Inc
+FX-IB-Marketing
+
 /css/　← スタイルシート（レスポンシブ対応含む）
   -responsive
   -styles.css
   -vendor.css
 
-Essence-Inc
+FX-IB-Marketing
+
 /images/　 ← 画像データ（iStock無料素材・オリジナル画像・アイコン等）
  -Shippori_Mincho
  -iStock
